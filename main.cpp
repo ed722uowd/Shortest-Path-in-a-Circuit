@@ -29,7 +29,7 @@ int main (int argc, char* argv[]){
     To Print adjacency list
      call/uncomment the below fuction
     */
-    //G.print_graph();
+    G.print_graph();
     
     Dijkstra (G, output);
 

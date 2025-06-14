@@ -1,4 +1,4 @@
-# Dijkstra Graph Path Finder
+# Dijkstra Graph Path Finder:- Finding the shortest path in a combinational circuit
 
 This project reads a `.bench` file (combinational gate netlist) describing a digital circuit, constructs a **directed sub graph** from the gates and connections, and then finds the **shortest path** between a given **input** and **output** node using **Dijkstra’s algorithm**.
 
